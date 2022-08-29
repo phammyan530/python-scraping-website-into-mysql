@@ -1,4 +1,4 @@
-### I.Python scraping website into MySQL server
+### Python scraping website into MySQL server
 
  - MySQL Connection to Python and Creating DB with Scraping Top 250 Movies Page on IMDB site https://www.imdb.com/chart/top
  - Scrap the page with BeautifulSoup and insert the data into Database
@@ -21,10 +21,10 @@ ER Diagram
 
 <img src="https://github.com/phammyan530/python-scraping-website-into-mysql/blob/main/movie_posters/2022-table.jpg" width="500">
 
-### II.Using Python to download images from mysql databse
+### Using Python to download images from mysql databse
 
 - Using Python, connect to imdbtop250 database, read all poster images SRC and download it to local
-- Finish: we have all data and images about Top 250 Movies.
+- Finish: we have data and images about Top 250 Movies.
 
 <img src="https://github.com/phammyan530/python-scraping-website-into-mysql/blob/main/movie_posters/posters.jpg">
 
