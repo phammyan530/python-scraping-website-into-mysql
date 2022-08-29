@@ -31,12 +31,12 @@ ER Diagram
 ### How to use
 
 Type the command for install the packages used in this project:
-
-- pip install beautifulsoup4
-- pip install requests
-- pip install tqdm
-- pip install mysql-connector-python==8.0.29
-
+```bash
+$ pip install beautifulsoup4
+$ pip install requests
+$ pip install tqdm
+$ pip install mysql-connector-python==8.0.29
+```
 Change your mysql connection at line 100 of scraping-website-by-python-into-mysql.py
 
 - host="localhost"
@@ -45,6 +45,7 @@ Change your mysql connection at line 100 of scraping-website-by-python-into-mysq
 - database="_imdbtop2500"
 
 Run this command to use:
-
-- python3 scraping-website-by-python-into-mysql.py
-- python3 download-images-from-mysql.py
+```bash
+$ python3 scraping-website-by-python-into-mysql.py
+$ python3 download-images-from-mysql.py
+```
