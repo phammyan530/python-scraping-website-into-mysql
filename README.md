@@ -46,5 +46,5 @@ Change your mysql connection at line 100 of scraping-website-by-python-into-mysq
 
 Run this command to use:
 
-python3 scraping-website-by-python-into-mysql.py
-python3 download-images-from-mysql.py
+- python3 scraping-website-by-python-into-mysql.py
+- python3 download-images-from-mysql.py
